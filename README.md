@@ -1,4 +1,4 @@
-### Welcome to my coding home - here are some stats to tell yuo what I have been up to
+### Welcome to my coding home - here are some stats to tell you what I have been up to
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=ellwoods&show_icons=true)
 
